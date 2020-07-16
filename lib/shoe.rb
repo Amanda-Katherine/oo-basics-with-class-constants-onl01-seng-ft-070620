@@ -9,15 +9,6 @@ BRANDS = []
     BRANDS << brand if !BRANDS.include?(brand)
   end
 
-  # def brand
-  #   @brand = brand
-  #
-  # end
-
-  # def brand
-  #   @brand
-  # end
-
   def cobble
     self.condition = "new"
     puts "Your shoe is as good as new!"
@@ -25,4 +16,4 @@ BRANDS = []
 
 end
 
-shoe = Shoe.new("Uggs")
+
