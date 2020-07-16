@@ -23,3 +23,5 @@ BRANDS = []
   end
 
 end
+
+Shoe.new("Uggs")
