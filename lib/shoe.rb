@@ -24,4 +24,4 @@ BRANDS = []
 
 end
 
-Shoe.new("Uggs")
+shoe = Shoe.new("Uggs")
